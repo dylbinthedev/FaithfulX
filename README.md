@@ -6,10 +6,14 @@ FaithfulX - forked from xMrVizzy &amp; Vattic/ Updated by me
 
 + Lightweight
 + 1.13.x Support
-+ Optifine font issue fixed
-+ Low Fire
-+ 64x64 Textures!
++ Smooth Font
++ Low Fire (for pvp users)
++ 64x64 Textures
 
+## Recommended Server
+IP: 0tx.org
+Type: Factions Pvp
+Version: 1.13.2
 
 ## Contributing
 Spindale
