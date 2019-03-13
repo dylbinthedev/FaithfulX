@@ -2,6 +2,7 @@
 FaithfulX - forked from xMrVizzy &amp; Vattic/ Updated by me
 # FaithfulX is a modified version of the original Faithful created by xMrVizzy and Vattic all credit goes to them.
 + FaithfulX - release candidate 2 (font fix and low fire added)
++ - release candidate 3 (gold/wood tools fix/ updated particles) (smooth update)
 
 + Lightweight
 + 1.13.x Support
