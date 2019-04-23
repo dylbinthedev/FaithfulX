@@ -5,7 +5,7 @@ FaithfulX - forked from xMrVizzy &amp; Vattic/ Updated by me
 + - release candidate 3 (gold/wood tools fix/ updated particles) (smooth update)
 + - Coming soon release candidate 4 fix for (horse textures)
 + Lightweight
-+ 1.13.x Support
++ 1.13.x Support (Pre Release 2 and up supports 1.14!)
 + Smooth Font
 + Low Fire (for pvp users)
 + 64x64 Textures
