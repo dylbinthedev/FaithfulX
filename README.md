@@ -15,6 +15,9 @@
 + - RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and berrie textures)
 + - RELEASE 2.1.1 (Fixed flower textures)
 
+## Bug Reporting
++ Just go to the issues tab
+
 ## Author
 + Spindel10
 
