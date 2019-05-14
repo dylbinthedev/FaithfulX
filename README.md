@@ -7,6 +7,7 @@ FaithfulX - forked from xMrVizzy &amp; Vattic/ Updated by me
 + - PRE-RELEASE 2.0 (Partial 1.14 support)
 + - RELEASE 2.0 (1.14 Textures)
 + - RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and berrie textures)
++ - RELEASE 2.1.1 (Fixed flower textures)
 + Lightweight
 + 1.13.x - 1.14.1 Support (RELEASE 2.0 and up supports 1.14 - 1.14.1!)
 + Smooth Font
