@@ -8,7 +8,7 @@ FaithfulX - forked from xMrVizzy &amp; Vattic/ Updated by me
 + - RELEASE 2.0 (1.14 Textures)
 + - RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and berrie textures)
 + Lightweight
-+ 1.13.x Support (Pre Release 2 and up supports 1.14!)
++ 1.13.x - 1.14.1 Support (RELEASE 2.0 and up supports 1.14 - 1.14.1!)
 + Smooth Font
 + Low Fire (for pvp users)
 + 64x64 Textures
