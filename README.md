@@ -2,22 +2,23 @@
 
 ## Features
 + Lightweight
-+ 1.13.x - 1.14.1 Support (RELEASE 2.0 and up supports 1.14 - 1.14.1!)
++ 1.13.x - 1.14.2 Support (RELEASE 2.0 and up supports 1.14 - 1.14.2!)
 + Smooth Font
 + Low Fire (for pvp users)
 + 64x64 Textures
 
 ## Changelog
-+ - release candidate 3 (gold/wood tools fix/ updated particles) (smooth update)
-+ - RELEASE 1.1 (Font update/preparing for 1.14)
-+ - PRE-RELEASE 2.0 (Partial 1.14 support)
-+ - RELEASE 2.0 (1.14 Textures)
-+ - RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and berrie textures)
-+ - RELEASE 2.1.1 (Fixed flower textures)
-+ - RELEASE 3.0 (Full Support for 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid)
++ RC3 (gold/wood tools fix/ updated particles)
++ RELEASE 1.0 (Full 1.13.x Compatibility)
++ RELEASE 1.1 (Fixed font)
++ PRE-RELEASE 2.0 (Partial 1.14 support)
++ RELEASE 2.0 (1.14 Textures)
++ RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and sweet berry textures)
++ RELEASE 2.1.1 (Fixed flower textures)
++ RELEASE 3.0 (Full Support for 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid) This is the most tested build confirmed to work on 1.9.0, 1.9.4, 1.10.2, 1.11.2, 1.12.2
 
 ## Upcoming Releases
-+ - Coming Soon
++ Coming Soon
 
 ## Bug Reporting
 + Just go to the issues tab
