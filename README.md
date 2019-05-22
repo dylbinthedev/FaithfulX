@@ -1,4 +1,4 @@
-# FaithfulX 1.9.0 - 1.14.2
+# FaithfulX for MC 1.9.0 - 1.14.2
 
 ## Features
 + Lightweight
@@ -13,9 +13,9 @@
 + RELEASE 1.1 (Fixed font)
 + PRE-RELEASE 2.0 (Partial 1.14 support)
 + RELEASE 2.0 (1.14 Textures)
-+ RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and sweet berry textures)
++ RELEASE 2.1 (Added every 1.14 texture + fixed blue/white/black dye and sweet berry textures)
 + RELEASE 2.1.1 (Fixed flower textures)
-+ RELEASE 3.0 (Full Support older versions such as 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid) This is the most tested build confirmed to work on 1.9.0, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.0, 1.13.2, 1.14.0, 1.14.1, 1.14.2
++ RELEASE 3.0 (Full Support for older versions such as 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid) This is the most tested build confirmed to work on 1.9.0, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.0, 1.13.2, 1.14.0, 1.14.1, 1.14.2
 
 ## Upcoming Releases
 + Coming Soon
