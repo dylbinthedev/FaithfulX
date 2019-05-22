@@ -1,4 +1,4 @@
-# FaithfulX 1.13 - 1.14.1
+# FaithfulX 1.9 - 1.14.2
 
 ## Features
 + Lightweight
@@ -14,10 +14,10 @@
 + - RELEASE 2.0 (1.14 Textures)
 + - RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and berrie textures)
 + - RELEASE 2.1.1 (Fixed flower textures)
++ - RELEASE 3.0 (Full Support for 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid)
 
 ## Upcoming Releases
-+ - RELEASE 2.1.2 (fixes smooth stone)
-+ - PRE-RELEASE 3.0 (adds backwards compatibility for 1.12 and lower)
++ - Coming Soon
 
 ## Bug Reporting
 + Just go to the issues tab
