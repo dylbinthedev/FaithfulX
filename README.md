@@ -1,8 +1,8 @@
-# FaithfulX 1.9 - 1.14.2
+# FaithfulX 1.9.0 - 1.14.2
 
 ## Features
 + Lightweight
-+ 1.13.x - 1.14.2 Support (RELEASE 2.0 and up supports 1.14 - 1.14.2!)
++ 1.9.0 - 1.14.2 Support (RELEASE 2.0 and up supports 1.14 - 1.14.2!)
 + Smooth Font
 + Low Fire (for pvp users)
 + 64x64 Textures
@@ -15,7 +15,7 @@
 + RELEASE 2.0 (1.14 Textures)
 + RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and sweet berry textures)
 + RELEASE 2.1.1 (Fixed flower textures)
-+ RELEASE 3.0 (Full Support for 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid) This is the most tested build confirmed to work on 1.9.0, 1.9.4, 1.10.2, 1.11.2, 1.12.2
++ RELEASE 3.0 (Full Support for 1.9/1.10/1.11/1.12) (1.14.1/1.14.2 users now see the resource pack as compatible instead of being invalid) This is the most tested build confirmed to work on 1.9.0, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.0, 1.13.2, 1.14.0, 1.14.1, 1.14.2
 
 ## Upcoming Releases
 + Coming Soon
