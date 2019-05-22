@@ -15,6 +15,10 @@
 + - RELEASE 2.1 (Cleaned up and added every 1.14 texture + fixed dye's and berrie textures)
 + - RELEASE 2.1.1 (Fixed flower textures)
 
+## Upcoming Releases
++ - RELEASE 2.1.2 (fixes smooth stone)
++ - PRE-RELEASE 3.0 (adds backwards compatibility for 1.12 and lower)
+
 ## Bug Reporting
 + Just go to the issues tab
 
