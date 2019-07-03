@@ -19,7 +19,7 @@
 + FINAL RELEASE 3.1 (Fixed a typo in the .mcmeta file) (FaithfulX now views as compatible on 1.14.3) Issues with OptiFine has now been fixed.
 
 ## Upcoming Releases
-+ Coming Soon
++ 3.2 with more bug fixes and features
 
 ## Bug Reporting
 + Just go to the issues tab
