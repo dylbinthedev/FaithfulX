@@ -1,4 +1,4 @@
-# FaithfulX for MC 1.9.0 - 1.14.3
+# FaithfulX for Minecraft Java Edition 1.9.0 - 1.14.3
 
 ## Features
 + Lightweight
