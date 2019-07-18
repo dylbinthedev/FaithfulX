@@ -1,4 +1,4 @@
-# FaithfulX for Minecraft Java Edition 1.9.0 - 1.14.3
+# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.14.3
 
 ## Features
 + 1.9.0 - 1.14.3 Support (RELEASE 2.0 and up supports 1.14 - 1.14.3!)
