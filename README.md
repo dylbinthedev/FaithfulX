@@ -31,3 +31,7 @@
 ## Credits
 + Vattic & xMrVizzy
 
+## FAQ
++ Will this pack recieve a port to Bedrock Edition?
+  + It depends if I can get it on the minecraft store, if not no...
+
