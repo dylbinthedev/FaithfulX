@@ -25,6 +25,8 @@
 
 + RELEASE 3.1 (Fixed a typo in .mcmeta) (FaithfulX now views as compatible on 1.14.3) Issues with OptiFine has now been fixed. Performance should be better now
 
++ RELEASE 3.1.2 (FaithfulX new views as compatible on 1.14.4!
+
 ## Upcoming Releases
 + RELEASE 3.2 will fix font glitches such as öäå not displaying correctly & more optimizations
 
