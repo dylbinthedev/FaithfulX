@@ -1,7 +1,7 @@
-# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.14.3
+# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.14.4
 
 ## Features
-+ 1.9.0 - 1.14.3 Support (RELEASE 2.0 and up supports 1.14 - 1.14.3!)
++ 1.9.0 - 1.14.4 Support (RELEASE 2.0 and up supports 1.14 - 1.14.4!)
 + Smooth Font
 + Low Fire (for pvp users)
 + 64x64 Textures
@@ -25,7 +25,7 @@
 
 + RELEASE 3.1 (Fixed a typo in .mcmeta) (FaithfulX now views as compatible on 1.14.3) Issues with OptiFine has now been fixed. Performance should be better now
 
-+ RELEASE 3.1.2 (FaithfulX new views as compatible on 1.14.4!
++ RELEASE 3.1.2 (FaithfulX now views as compatible on 1.14.4!
 
 ## Upcoming Releases
 + RELEASE 3.2 will fix font glitches such as öäå not displaying correctly & more optimizations
