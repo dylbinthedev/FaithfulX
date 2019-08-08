@@ -28,7 +28,7 @@
 + RELEASE 3.1.2 (FaithfulX now views as compatible on 1.14.4!
 
 ## Upcoming Releases
-+ RELEASE 3.2 will fix font glitches such as öäå not displaying correctly & more optimizations
++ Unkown
 
 ## Credits
 + Vattic & xMrVizzy
