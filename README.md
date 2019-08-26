@@ -31,7 +31,7 @@
 + Unkown
 
 ## Credits
-+ Vattic & xMrVizzy
++ `Vattic & xMrVizzy`
 
 ## License
 +Open Source Hardware (OSHW) Statement of Principles 1.0
