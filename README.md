@@ -1,10 +1,10 @@
 # FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.14.4
 
 ## Features
-+ 1.9.0 - 1.14.4 Support (RELEASE 2.0 and up supports 1.14 - 1.14.4!)
-+ Smooth Font
-+ Low Fire (for pvp users)
-+ 64x64 Textures
++ `1.9.0 - 1.14.4 Support (RELEASE 2.0 and up supports 1.14 - 1.14.4!)`
++ `Smooth Font`
++ `Low Fire (for pvp users)`
++ `64x64 Textures`
 
 ## Changelog
 + RC3 (gold/wood tools fix/ updated particles)
