@@ -28,15 +28,10 @@
 + RELEASE 3.1.2 (FaithfulX now views as compatible on 1.14.4!
 
 ## Upcoming Releases
-+ Unkown
++ Expect a big update in December or earlier if I got time :)
 
 ## Credits
 + `Vattic & xMrVizzy`
-
-## License
-+Open Source Hardware (OSHW) Statement of Principles 1.0
-
-Open source hardware is hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. The hardware’s source, the design from which it is made, is available in the preferred format for making modifications to it. Ideally, open source hardware uses readily-available components and materials, standard processes, open infrastructure, unrestricted content, and open-source design tools to maximize the ability of individuals to make and use hardware. Open source hardware gives people the freedom to control their technology while sharing knowledge and encouraging commerce through the open exchange of designs.
 
 
 ## FAQ
