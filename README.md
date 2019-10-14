@@ -1,7 +1,7 @@
-# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.14.4
+# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.15.0
 
 ## Features
-+ `1.9.0 - 1.14.4 Support (RELEASE 2.0 and up supports 1.14 - 1.14.4!)`
++ `1.9.0 - 1.15.0 Support (RELEASE 2.0 and up supports 1.14 - 1.14.4!)`(Pre-Release 4.0 Supports 1.15.0)
 + `Smooth Font`
 + `Low Fire (for pvp users)`
 + `64x64 Textures`
@@ -27,8 +27,10 @@
 
 + RELEASE 3.1.2 (FaithfulX now views as compatible on 1.14.4!
 
++ PRE-RELEASE 4.0 - Support for Minecraft 1.15.0
+
 ## Upcoming Releases
-+ Expect a big update in December or earlier if I got time :)
++ Bug Fixes soon
 
 ## Credits
 + `Vattic & xMrVizzy`
