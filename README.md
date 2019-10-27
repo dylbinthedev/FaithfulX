@@ -30,10 +30,14 @@
 + PRE-RELEASE 4.0 - Support for Minecraft 1.15.0
 
 ## Upcoming Releases
-+ Bug Fixes soon
++ Bug Fixes soon (Full release of version 4.0
 
 ## Credits
 + `Vattic & xMrVizzy`
+
+## Moving away from legacy versions
+
++ This pack supported 1.7 - 1.8.9 clients, however I decided to make FaithfulX compatible with new block id's which breaks support for 1.8.9 and lower. I am currently working on porting FaithfulX to 1.7 and 1.8 but it will take a while.
 
 
 ## FAQ
