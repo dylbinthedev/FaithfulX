@@ -33,7 +33,7 @@
 
 + RELEASE 3.3.1 New short diamond sword
 
-+ PRE-RELEASE 4.0 - Support for Minecraft 1.15.0
++ PRE-RELEASE 4.0 - Support for Minecraft 1.15.0 (snapshots)
 
 ## Upcoming Releases
 + Bug Fixes soon (Full release of version 4.0
