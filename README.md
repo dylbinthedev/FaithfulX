@@ -37,10 +37,11 @@
 
 ## Moving away from legacy versions
 
-+ This pack supported 1.7 - 1.8.9 clients, however I decided to make FaithfulX compatible with new block id's which breaks support for 1.8.9 and lower. I am currently working on porting FaithfulX to 1.7 and 1.8 but it will take a while.
++ This pack supported 1.7 - 1.8.9 clients, however I decided to make FaithfulX compatible with new block id's which breaks support for 1.8.9 and lower. I am currently working on porting FaithfulX to 1.7 and 1.8 but it will take a while. It does work with 1.9.x all the way up to 1.15.0 snapshots.
 
 
 ## FAQ
 + Will this pack recieve a port to Bedrock Edition?
   + It depends if I can get it on the minecraft store, if not no...
+
 
