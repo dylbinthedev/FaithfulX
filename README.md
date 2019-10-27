@@ -27,6 +27,12 @@
 
 + RELEASE 3.1.2 (FaithfulX now views as compatible on 1.14.4!
 
++ RELEASE 3.2 fixed öäå
+
++ RELEASE 3.3 64x64 Particles
+
++ RELEASE 3.3.1 New short diamond sword
+
 + PRE-RELEASE 4.0 - Support for Minecraft 1.15.0
 
 ## Upcoming Releases
