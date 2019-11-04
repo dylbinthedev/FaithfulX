@@ -7,7 +7,7 @@
 + `64x64 Textures`
 
 ## Download
-[latest .zip](https://github.com/arm64nerd/FaithfulX/releases/latest).
+[Download latest version .zip](https://github.com/arm64nerd/FaithfulX/releases/latest).
 
 ## Changelog
 + RC3 (gold/wood tools fix/ updated particles)
