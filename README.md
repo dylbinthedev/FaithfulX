@@ -5,18 +5,14 @@ FaithfulX - forked from xMrVizzy &amp; Vattic/ Updated by me
 + - release candidate 3 (gold/wood tools fix/ updated particles) (smooth update)
 + - Coming soon release candidate 4 fix for (horse textures)
 + Lightweight
-+ 1.13.x Support
++ 1.9.x - 1.15.x Support
 + Smooth Font
 + Low Fire (for pvp users)
 + 64x64 Textures
 
-## Recommended Server
-IP: 0tx.org
-Type: Factions Pvp
-Version: 1.13.2
 
 ## Contributing
-Spindale
+arm64nerd
 
 
 ## Authors
