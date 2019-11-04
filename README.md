@@ -6,6 +6,9 @@
 + `Low Fire (for pvp users)`
 + `64x64 Textures`
 
+## Download
+[latest .zip](https://github.com/arm64nerd/FaithfulX/releases/latest).
+
 ## Changelog
 + RC3 (gold/wood tools fix/ updated particles)
 
