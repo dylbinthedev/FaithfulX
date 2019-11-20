@@ -7,39 +7,11 @@
 + `64x64 Textures`
 
 ## Download
-[Download latest version .zip](https://github.com/arm64nerd/FaithfulX/releases/latest).
+[Download latest version here](https://github.com/arm64nerd/FaithfulX/releases/latest).
 
 ## Changelog
-+ RC3 (gold/wood tools fix/ updated particles)
++ Changelogs are no longer listed here. You can see the latest changes on the releases tab.
 
-+ RELEASE 1.0 (Full 1.13.x Compatibility)
-
-+ RELEASE 1.1 (Fixed font)
-
-+ PRE-RELEASE 2.0 (Partial 1.14 support)
-
-+ FINAL RELEASE 2.0 (1.14 Textures)
-
-+ RELEASE 2.1 (Added every 1.14 texture + fixed blue/white/black dye and sweet berry textures)
-
-+ RELEASE 2.1.1 (Fixed flower textures)
-
-+ FINAL RELEASE 3.0 (Full Support for older versions such as 1.9/1.10/1.11/1.12) (1.14.1/1.14.2/1.14.3 users now see the resource pack as compatible instead of being invalid) This is the most tested build ever! Confirmed to work on 1.9.0, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.0, 1.13.2, 1.14.0, 1.14.1, 1.14.2, 1.14.3!
-
-+ RELEASE 3.1 (Fixed a typo in .mcmeta) (FaithfulX now views as compatible on 1.14.3) Issues with OptiFine has now been fixed. Performance should be better now
-
-+ RELEASE 3.1.2 (FaithfulX now views as compatible on 1.14.4!
-
-+ RELEASE 3.2 fixed öäå
-
-+ RELEASE 3.3 64x64 Particles
-
-+ RELEASE 3.3.1 New short diamond sword
-
-+ PRE-RELEASE 4.0 - Support for Minecraft 1.15.0 (snapshots)
-
-## Upcoming Releases
-+ Bug Fixes soon (Full release of version 4.0
 
 ## Credits
 + `Vattic & xMrVizzy`
@@ -50,7 +22,9 @@
 
 
 ## FAQ
-+ Will this pack recieve a port to Bedrock Edition?
-  + It depends if I can get it on the minecraft store, if not no...
++ Which versions of MC Java Edition is compatible?
++ 1.9 - 1.15.0
 
++ Does it work with 1.7 - 1.8.9?
++ This pack has issues with 1.7/1.8 since texturepack formats changed betweeen 1.8 and 1.9 but I have a fork for 1.7/1.8 on the legacy page.
 
