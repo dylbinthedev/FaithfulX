@@ -1,9 +1,9 @@
 # FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.15.0
 
 ## Features
-+ `1.9.0 - 1.15.0 Support (RELEASE 2.0 and up supports 1.14 - 1.14.4!)`(Pre-Release 4.0 Supports 1.15.0)
++ `1.9.0 - 1.14.4/1.15(snapshots)
 + `Smooth Font`
-+ `Low Fire (for pvp users)`
++ `Low Fire`
 + `64x64 Textures`
 
 ## Download
@@ -25,9 +25,9 @@
 
 
 ## FAQ
-+ Which versions of MC Java Edition is compatible?
-+ 1.9 - 1.15.0
-
 + Does it work with 1.7 - 1.8.9?
 + This pack has issues with 1.7/1.8 since texturepack formats changed betweeen 1.8 and 1.9 but I have a fork for 1.7/1.8 on the legacy page.
+
++ Support for Bedrock Edition?
++ Nothing is planned right now, but I might port it over to Bedrock Edition.
 
