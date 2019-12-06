@@ -1,7 +1,7 @@
 # FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.15.0
 
 ## Features
-+ `Supports 1.9/1.10/1.11/1.12/1.13/1.14/1.15(pre-releases)
++ `Supports 1.9/1.10/1.11/1.12/1.13/1.14/1.15(pre-releases)`
 + `Latest ascii font`
 + `Low Fire`
 + `64x64 Textures`
