@@ -1,7 +1,7 @@
-# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.15.0
+# FaithfulX for Minecraft Java Edition MC 1.9.0 - 1.15.1
 
 ## Features
-+ `Supports 1.9/1.10/1.11/1.12/1.13/1.14/1.15(pre-releases)`
++ `Supports 1.9.x/1.10.x/1.11.x/1.12.x/1.13.x/1.14.x/1.15.x`
 + `Latest ascii font`
 + `Low Fire`
 + `64x64 Textures`
@@ -21,7 +21,7 @@
 
 ## Moving away from legacy versions
 
-+ This pack supported 1.7 - 1.8.9 clients, however I decided to make FaithfulX compatible with new block id's which breaks support for 1.8.9 and lower. I am currently working on porting FaithfulX to 1.7 and 1.8 but it will take a while. It does work with 1.9.x all the way up to 1.15.0 pre-releases.
++ This pack supported 1.7 - 1.8.9 clients, however I decided to make FaithfulX compatible with new block id's which breaks support for 1.8.9 and lower. I am currently working on porting FaithfulX to 1.7 and 1.8 but it will take a while. It does work with 1.9.x all the way up to 1.15.1.
 
 
 ## FAQ
