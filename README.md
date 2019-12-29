@@ -1,4 +1,4 @@
-# FaithfulX (Legacy) for Minecraft Java Edition MC 1.7.0 - 1.8.9
+# FaithfulX (Legacy) for Minecraft Java Edition MC 1.7.0 - 1.8.9 (ABANDONED)
 
 ## Features
 + `1.7.0 - 1.8.9 Support 
@@ -10,7 +10,6 @@
 + Release 1.0 - FaithfulX ported to 1.7.x - 1.8.x clients.
 
 ## Upcoming Releases
-+ Optimizations and bug fixes (1.0.1)
 
 ## Credits
 + `Vattic & xMrVizzy`
