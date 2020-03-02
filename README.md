@@ -7,10 +7,7 @@
 + `64x64 Textures`
 
 ## Download
-[Download latest stable version here](https://github.com/arm64nerd/FaithfulX/releases/latest).
-
-[Download latest pre-release version here](https://github.com/arm64nerd/FaithfulX/releases/latest).
-
+[Download latest stable release here.](https://github.com/arm64nerd/FaithfulX/releases/latest).
 
 ## Changelog
 + Changelogs are no longer listed here. You can see the latest changes on the releases tab.
