@@ -5,6 +5,7 @@
 + `Latest ascii font`
 + `Low Fire`
 + `64x64 Textures`
++ `Lightweight`
 
 ## Download
 [Download latest stable release here.](https://github.com/arm64nerd/FaithfulX/releases/latest).
