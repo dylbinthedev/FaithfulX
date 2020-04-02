@@ -6,6 +6,7 @@
 + `Low Fire`
 + `64x64 Textures`
 + `Lightweight`
++ `Most builds compatible with Forge Mod Loader`
 
 ## Download
 [Download latest stable release here.](https://github.com/arm64nerd/FaithfulX/releases/latest).
