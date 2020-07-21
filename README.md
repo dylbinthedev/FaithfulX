@@ -1,7 +1,4 @@
-# FaithfulX for Minecraft Java Edition 1.13.0 - 1.16.0
-
-## Upcoming
-+ 1.7.10 - 1.12.2 version is being worked on. No ETA
+# FaithfulX for Minecraft Java Edition 1.13.0 - 1.16.1
 
 ## Features
 + `Supports latest modern versions of Java Edition (1.13.x/1.14.x/1.15.x/1.16.x)`
