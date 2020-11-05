@@ -1,7 +1,7 @@
-# FaithfulX for Minecraft Java Edition 1.13.0 - 1.16.2
+# FaithfulX for Minecraft Java Edition 1.13.0 - 1.17.0 (snapshots)
 
 ## Features
-+ `Supports latest modern versions of Java Edition (1.13.x/1.14.x/1.15.x/1.16.x)`
++ `Supports latest modern versions of Java Edition (1.13.x/1.14.x/1.15.x/1.16.x/1.17.x)`
 + `Latest ascii font`
 + `Low Fire`
 + `64x64 Textures`
@@ -16,6 +16,8 @@
 + Village & Pillage Update (1.14.x)
 + Buzzy Bees Update (1.15.x)
 + The Nether Update (1.16.x)
++ Caves & Cliffs Update (1.17.0 snapshots)
 
 ## Credits
 + `Vattic, xMrVizzy and the original Faithful Team`
++ https://faithful.team/
