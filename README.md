@@ -9,7 +9,7 @@
 + `Stable + OptiFine support`
 
 ## Download
-[Download latest stable release here.](https://github.com/arm64nerd/FaithfulX/releases/latest).
+[Download latest stable release here.](https://github.com/dylbinthedev/FaithfulX/releases/latest).
 
 ## Compatible Minecraft Versions
 + Update Aquatic (1.13.x)
