@@ -1,7 +1,7 @@
-# FaithfulX for Minecraft Java Edition 1.13.0 - 1.17.0 (snapshots)
+# FaithfulX for Minecraft Java Edition 1.13.0 - 1.16.5
 
 ## Features
-+ `Supports latest modern versions of Java Edition (1.13.x/1.14.x/1.15.x/1.16.x/1.17.0)`
++ `Supports latest modern versions of Java Edition (1.13.x/1.14.x/1.15.x/1.16.x)`
 + `Low Fire`
 + `64x64 Textures`
 + `Lightweight`
